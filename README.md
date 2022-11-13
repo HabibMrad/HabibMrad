@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Habib Mrad
-- 👀 I’m interested in ML/DL in Healthcare and espacially in Cadiology
+- 👀 I’m interested in ML/DL in Healthcare and especially in Cadiology
 - 🌱 I’m currently learning ML and DL for CVDs
 - 💞️ I’m looking to collaborate on building new apps related to ML in CVDs
 - 📫 How to reach: me habib.mrad.19383@gmail.com
